@@ -1,3 +1,8 @@
+// Author: Rajiur Rahman ( rajiurrahman.bd@gmail.com )
+// Department of Computer Science, Wayne State University
+
+
+
 package org.sparkexample;
 
 import com.google.common.collect.Iterators;
